@@ -9,6 +9,8 @@ body {
  background: white;
  color: black;
  -webkit-font-smoothing: antialiased;
+ padding: 10px;
+
 }
 
 body, input, button {
@@ -18,4 +20,8 @@ body, input, button {
 
 button {
  cursor: pointer;
+}
+
+.form-div{
+  width: 30vw;
 }
